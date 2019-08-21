@@ -16,4 +16,4 @@
 
 # Screenshot of the app:
 
-<img src="https://github.com/juaumzineo/NavegandoActivities/blob/master/screenshot.jpg" height="600">
+<img src="https://github.com/juaumzineo/NavegandoActivities/blob/master/screenshot.jpeg" height="600">
