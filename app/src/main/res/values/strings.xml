@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navegando Activities</string>
+    <string name="nomeAc2">Primeira Tela</string>
+    <string name="nomeAc3">Segunda Tela</string>
+    <string name="nomeAc4">Terceira Tela</string>
+    <string name="nomeAc5">Quarta Tela</string>
+</resources>
